@@ -1,16 +1,18 @@
-.texto {
+.primertitulo {
     text-align: center;
+    background-color: teal;
 }
 
 .articulo {
-    font-family: sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     margin-left: 300px;
     margin-right: 300px;
-    
+    color: blanchedalmond;
+
 }
 body {
-    background-color: lightslategray;
+    background-color: rgb(16, 32, 48);
 }
 .center {
      
@@ -22,4 +24,3 @@ body {
 #piedepagina {
     text-align: center;
 }
-
