@@ -1,0 +1,1 @@
+alert("hola, Bienvenidos a mi página inicial")
